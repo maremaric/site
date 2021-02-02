@@ -296,7 +296,7 @@ button {
 .service__section {
     padding: 80px 0;
     min-height: 100vh;
-    background: #00AAFF;
+    background-color: #f3f2f1; 
     clip-path: polygon(0 11%, 100% 0, 100% 86%, 0 100%);
 }
 
