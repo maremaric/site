@@ -768,6 +768,10 @@ button {
     .about__section .about__content h2 {
         margin-top: 20px;
     }
+    .gallery__section .gallery__filter button {
+        margin: 0;
+        padding: 0;
+    }
 }
 
 @media(max-width: 575px) {
@@ -793,6 +797,10 @@ button {
     }
     .about__section .about__content h2 {
         margin-top: 20px;
+    }
+    .gallery__section .gallery__filter button {
+        margin: 0;
+        padding: 0;
     }
 }
 
