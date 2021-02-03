@@ -776,7 +776,7 @@ button {
 
 @media(max-width: 575px) {
     .home__section .home__content h1 {
-        font-size: 25px;
+        font-size: 20px;
     }
     .contact__section .contact__info .info__item,
     .contact__section .contact__form .form .input__group.right,
@@ -801,12 +801,6 @@ button {
     .gallery__section .gallery__filter button {
         margin: 0;
         padding: 0;
-    }
-}
-
-@media(max-width: 500px) {
-    .home__section .home__content h1 {
-        font-size: 20px;
     }
 }
 
