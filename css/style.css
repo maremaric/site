@@ -208,8 +208,7 @@ button {
 /* Home section */
 .home__section {
     min-height: 100vh;
-    /* background: url([../img/IMG-header-V.jpg]) 0 0 / cover; */
-    background: url(../img/IMG-header-V.jpg) fixed center; /*dodato*/
+    background: url([../img/IMG-header-V.jpg]) 0 0 / cover;
     background-image: url(../img/IMG-header-V.jpg); /*promenjeno ""*/
     background-size: cover;
     background-position: center;
