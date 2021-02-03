@@ -208,6 +208,7 @@ button {
 /* Home section */
 .home__section {
     min-height: 100vh;
+    /* background: url([../img/IMG-header-V.jpg]) 0 0 / cover; */
     background: url(../img/IMG-header-V.jpg) fixed center; /*dodato*/
     background-image: url(../img/IMG-header-V.jpg); /*promenjeno ""*/
     background-size: cover;
@@ -386,7 +387,6 @@ button {
     font-weight: 700;
     cursor: pointer;
     color: black;
-    margin: 0 10px;
     transition: all 0.5s ease;
     /* margin-bottom: 20px; */
     text-transform: uppercase;
