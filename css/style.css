@@ -804,3 +804,9 @@ button {
     }
 }
 
+@media(max-width: 500px) {
+    .home__section .home__content h1 {
+        font-size: 20px;
+    }
+}
+
