@@ -208,8 +208,8 @@ button {
 /* Home section */
 .home__section {
     min-height: 100vh;
-    background: url([../img/IMG-header-V.jpg]) 0 0 / cover;
-    background-image: url(../img/IMG-header-V.jpg); /*promenjeno ""*/
+    background: url(../img/IMG-header-V.jpg) 0 0 / cover;
+    /* background-image: url("../img/IMG-header-V.jpg"); promenjeno "" */
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
