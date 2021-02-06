@@ -199,6 +199,8 @@ button {
     padding: 25px 0;
     display: block;
     transition: all 0.5s ease;
+    text-transform: uppercase;
+    font-style: italic;
 }
 
 .header .nav ul li a:hover {
